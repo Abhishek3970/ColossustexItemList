@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919602824861",
+    "firebase_url": "https://colossustexitemlist.firebaseio.com",
+    "project_id": "colossustexitemlist",
+    "storage_bucket": "colossustexitemlist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919602824861:android:86fee06ac5ca5cf790f674",
+        "android_client_info": {
+          "package_name": "com.example.colossustexitemlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919602824861-af3d5igoembs2j46qggtrd4n9eui0po8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.colossustexitemlist",
+            "certificate_hash": "c4b90e2bf9f981e69cc3490b716609aaebf0b3e5"
+          }
+        },
+        {
+          "client_id": "919602824861-o48sclsqb5jqdk8es3n36ociqn7kb7go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiLCg-7ykHt4LmP2x1cZBr5TnReZwhRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919602824861-o48sclsqb5jqdk8es3n36ociqn7kb7go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
